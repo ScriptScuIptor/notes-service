@@ -1,4 +1,4 @@
-package by.bsuir.notes_service.service.config;
+package by.bsuir.notes_service.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
